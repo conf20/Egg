@@ -1,4 +1,4 @@
-# Embedding Graphs on a Grassmann Manifold
+# Embedding Graphs on Grassmann Manifold
 
 This repository is the official implementation of [Embedding Graphs on a Grassmann Manifold](submitted to ECML-PKDD 2021).
 
